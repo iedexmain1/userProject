@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07.05.2014, 16:16:27
+    Author     : Domi
+*/
+.Alle_Button {
+    -fx-background-color:rgba(144,144,144, 0);
+}
+
+.Button_Neu {
+    -fx-background-image: url("../img/Neu.png");
+}
+
+.Button_Speichern {
+    -fx-background-image: url("../img/speichern.png");
+}
+
+.Button_Oeffnen {
+    -fx-background-image: url("../img/oeffnen.png");
+}
+
+.Button_zurueck {
+    -fx-background-image: url("../img/zurueck.png");
+}
+
+.Button_vor {
+    -fx-background-image: url("../img/vor.png");
+}
+
+.Button_Rechteck {
+    -fx-background-image: url("../img/Rechteck.png");
+}
+
+.Button_Dreieck {
+    -fx-background-image: url("../img/dreieck3.png");
+}
+
+.Button_Kreis {
+    -fx-background-image: url("../img/kreis.png");   
+}
+
+.Button_Linie {
+    -fx-background-image: url("../img/line.png"); 
+}
+ 
+.Button_Polygon {
+    -fx-background-image: url("../img/polygon.png");
+}
+
+.Button_Kopieren {
+    -fx-background-image: url("../img/Kopieren.png");
+}
+
+.Button_Loeschen {
+    -fx-background-image: url("../img/loeschen.png");
+}
+
+.Leiste {
+    -fx-background-color: #F4F4F4;
+    -fx-border-width:   0px 0px 0.5px 0px;
+    -fx-border-color:   rgb(150, 150, 150);
+}
+
+.TransformationsleisteFenster {
+    -fx-background-color: #F4F4F4;
+    -fx-border-width:   0.5px 0px 0px 0px;
+    -fx-border-color:   rgb(150, 150, 150);
+}
+
+.Lineal_vertikal {
+    -fx-background-image: url("../img/lineal_vertikal.png");
+}
+
+.Lineal_horizontal {
+    -fx-background-image: url("../img/lineal_horizontal.png");
+}
+
+.Spiegelung_Hori{
+    -fx-background-image: url("../img/icon_hori.gif");
+    -fx-background-repeat: no-repeat;
+}
+
+.Spiegelung_Verti{
+    -fx-background-image: url("../img/icon_verti.gif");
+    -fx-background-repeat: no-repeat;
+}
